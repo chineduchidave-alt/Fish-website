@@ -1,0 +1,164 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.stage1{
+    background-color: #70062c;
+    display: flex;
+    justify-content: space-around;
+    font-family:"poppins",sans-serif; 
+    font-size: 15px;
+    color: white;
+    position: relative;
+}
+.media{
+    position: relative;
+    color: yellow;
+    font-size: 20px;
+    padding-right: -100%;
+    
+}
+.stage1 a{
+    color: yellow;
+    font-size: 15px;
+}
+.icon{
+    position: relative;
+    top: 4px;
+    color: yellow;
+}
+
+.icon2{
+    position: relative;
+    padding: 0 36rem;
+    color: black;
+    font-size: 20px;
+
+}
+
+.log{
+    width: 50px;
+}
+.stage2{
+display: flex;
+background-color: #ecbe5e ;
+padding: 20px;
+justify-content: center;
+align-items: center;
+}
+ .search{
+background-color: #ecbe5e;
+}
+.search textarea{
+    background-color: #ecbe5e;
+    border-radius: 25px;
+    font-size: 18px;
+    box-shadow: 45px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
