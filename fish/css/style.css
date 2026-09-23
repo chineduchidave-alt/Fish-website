@@ -12,12 +12,22 @@
     color: white;
     position: relative;
 }
+.stage1 select{
+    background-color: #70062c;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
 .media{
-    position: relative;
-    color: yellow;
+    position: absolute;
     font-size: 20px;
-    padding-right: -100%;
-    
+   justify-content: space-around;
+}
+.gh{
+    position: relative;
+    font-size: 20px;
+    right: 170px;
+    top: 20px;
 }
 .stage1 a{
     color: yellow;
@@ -25,20 +35,20 @@
 }
 .icon{
     position: relative;
-    top: 4px;
     color: yellow;
+    justify-content: space-around;
 }
 
 .icon2{
-    position: relative;
-    padding: 0 36rem;
     color: black;
     font-size: 20px;
-
+    margin-right: 10px;
+    color: white;
 }
-
 .log{
-    width: 50px;
+    width: 90px;
+    gap: 50px;
+    margin-right: 200px;
 }
 .stage2{
 display: flex;
@@ -47,118 +57,166 @@ padding: 20px;
 justify-content: center;
 align-items: center;
 }
- .search{
-background-color: #ecbe5e;
-}
-.search textarea{
+.bot{
+    border-radius: 35px;
+    width: 420px;
+    height: 56px;
+    margin-left: 270px;
     background-color: #ecbe5e;
-    border-radius: 25px;
-    font-size: 18px;
-    box-shadow: 45px black;
+    color: black;
+    font-size: 20px;
+    border: black solid 1px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.message{
+    position: static;
+    color: yellow;
+    font-size: 20px;
+}
+.on{
+    border-radius: 35px;
+    width: 680px;
+    height: 56px;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    left: -100%;
+    border: black solid 1px;
+}
+button:hover{
+    background-color: #70062c;
+    color: white;
+
+}
+.sera{
+    box-shadow: black 45px;
+    background-color: #ecbe5e;
+    height: 36px;
+    width: 100%;
+    border-radius: 15px;
+    margin-left: -130px;
+
+}
+.search{
+    border-radius: 25px;
+    height: 36px;
+    width: 93%;
+    background-color: #ecbe5e;
+    padding-left: 40px;
+}
+.glass{
+    font-size: 20px;
+    position: relative;
+    left: 8%;
+    top: 4%;
+}
+ hr{
+  border: none;
+  height: 1px;
+  background-color: black;
+}
+.stage3{
+    background-color: #ecbe5e;
+    height: 50px;
+    padding-bottom: 70px;
+}
+.SELL{
+    background-color: #70062c;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 7px;
+}
+.loc-span{
+    position: relative;
+    top: 15px;
+    right: 170px; 
+    font-size: 17px; 
+}
+.nd{
+    padding-left: 27px;
+}
+.te{
+    position: relative;
+    top: 14px;
+    right: 115px;
+    font-size: 17px;
+}
+.call{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    width: 40px;
+}
+.stage3 select{
+    background-color: #ecbe5e;
+    border: none;
+    padding: 5px;
+    
+}
+.icon3{
+    color: black;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.stage4{
+    box-sizing: border-box;
+    width: 100%;
+}
+.ret{
+    width: 100%;
+    margin: auto;
+}
+.stage5{
+ padding: 50px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  padding-left: 200px;
+}
+.stage5 h1{
+    padding-bottom: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+.stage5 p{
+    padding-bottom: 20px;
+}
+.paf{
+    color: black;
+    text-decoration: none;
+}
+.paf:hover{
+    color: #70062c;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.stage5 h2{
+    padding-bottom: 26px;
+}
+.stage5 blockquote{
+    padding-bottom: 20px;
+}
+.stage5 br{
+    line-height: 2;
+    padding: 5px;
+}
+.stock{
+    color: black;
+}
+.stock:hover{
+    color: #70062c;
+    text-decoration: underline;
+}
+.pp{
+    padding-top: 50px;
+}
+.pro{
+    color: black;
+}
+.pro:hover{
+    color: #70062c;
+}
